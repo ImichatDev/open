@@ -30,7 +30,7 @@
 #cssmenu {
   width: auto;
   font-family: 'Open Sans', sans-serif;
-  line-height: 2;
+  line-height: 3;
   background: #ffffff;
 }
 #menu-line {
@@ -67,7 +67,7 @@
 }
 #cssmenu > ul > li > a {
   padding: 20px;
-  font-size: 12px;
+  font-size: 30px;
   text-decoration: none;
   text-transform: uppercase;
   color: #000000;
